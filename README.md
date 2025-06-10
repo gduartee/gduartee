@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Gabriel Duarte
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Gabriel Duarte da Silva, tenho 18 anos e sou natural de Jequié. Concluí o ensino médio no CEPF. Atualmente, estou cursando Sistemas de Informação (SI) na UESB. Gosto muito da área de tecnologia e compartilho meu conhecimento aqui mesmo no GitHub.
 
